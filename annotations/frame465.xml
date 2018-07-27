@@ -1,0 +1,34 @@
+<annotation>
+  <folder>images</folder>
+  <filename>frame465.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>motorbike</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>951</xmin>
+      <ymin>127</ymin>
+      <xmax>1064</xmax>
+      <ymax>371</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>motorbike</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>796</xmin>
+      <ymin>685</ymin>
+      <xmax>971</xmax>
+      <ymax>975</ymax>
+    </bndbox>
+  </object>
+</annotation>

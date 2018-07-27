@@ -1,0 +1,34 @@
+<annotation>
+  <folder>images</folder>
+  <filename>frame127.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>motorbike</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1336</xmin>
+      <ymin>91</ymin>
+      <xmax>1448</xmax>
+      <ymax>305</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>motorbike</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1589</xmin>
+      <ymin>701</ymin>
+      <xmax>1754</xmax>
+      <ymax>1021</ymax>
+    </bndbox>
+  </object>
+</annotation>

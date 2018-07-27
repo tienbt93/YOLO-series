@@ -1,0 +1,34 @@
+<annotation>
+  <folder>images</folder>
+  <filename>frame621.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>motorbike</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>781</xmin>
+      <ymin>166</ymin>
+      <xmax>901</xmax>
+      <ymax>359</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>motorbike</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>556</xmin>
+      <ymin>11</ymin>
+      <xmax>634</xmax>
+      <ymax>127</ymax>
+    </bndbox>
+  </object>
+</annotation>
